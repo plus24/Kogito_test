@@ -5,8 +5,8 @@
     <dmn:itemComponent id="_F7BB586A-11EB-4E23-BC0F-364D66519C18" name="ID" isCollection="false">
       <dmn:typeRef>Any</dmn:typeRef>
     </dmn:itemComponent>
-    <dmn:itemComponent id="_3596A1C2-4BFA-458B-AA81-34B5DC7EDFBD" name="Insert a name" isCollection="false">
-      <dmn:typeRef>Any</dmn:typeRef>
+    <dmn:itemComponent id="_3596A1C2-4BFA-458B-AA81-34B5DC7EDFBD" name="DisruptionType" isCollection="false">
+      <dmn:typeRef>string</dmn:typeRef>
     </dmn:itemComponent>
   </dmn:itemDefinition>
   <dmndi:DMNDI>
