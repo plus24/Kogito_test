@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dmn:definitions xmlns:dmn="http://www.omg.org/spec/DMN/20180521/MODEL/" xmlns="https://kiegroup.org/dmn/_AC09BA03-C946-40B3-98DA-6EFF4A8841D5" xmlns:feel="http://www.omg.org/spec/DMN/20180521/FEEL/" xmlns:kie="http://www.drools.org/kie/dmn/1.2" xmlns:dmndi="http://www.omg.org/spec/DMN/20180521/DMNDI/" xmlns:di="http://www.omg.org/spec/DMN/20180521/DI/" xmlns:dc="http://www.omg.org/spec/DMN/20180521/DC/" id="_BD1FF3CE-0FD8-4437-85B8-D17F8655D372" name="Untitled" typeLanguage="http://www.omg.org/spec/DMN/20180521/FEEL/" namespace="https://kiegroup.org/dmn/_AC09BA03-C946-40B3-98DA-6EFF4A8841D5">
+  <dmn:extensionElements/>
+  <dmn:itemDefinition id="_BFC33F34-C7A0-4E3E-9048-DFE4A868C8E2" name="Disruption" isCollection="false">
+    <dmn:itemComponent id="_F7BB586A-11EB-4E23-BC0F-364D66519C18" name="ID" isCollection="false">
+      <dmn:typeRef>Any</dmn:typeRef>
+    </dmn:itemComponent>
+    <dmn:itemComponent id="_3596A1C2-4BFA-458B-AA81-34B5DC7EDFBD" name="Insert a name" isCollection="false">
+      <dmn:typeRef>Any</dmn:typeRef>
+    </dmn:itemComponent>
+  </dmn:itemDefinition>
+  <dmndi:DMNDI>
+    <dmndi:DMNDiagram id="_EA725BD0-0F0F-4BE7-8DBC-13E9D0659D26" name="DRG">
+      <di:extension>
+        <kie:ComponentsWidthsExtension/>
+      </di:extension>
+    </dmndi:DMNDiagram>
+  </dmndi:DMNDI>
+</dmn:definitions>
